@@ -107,11 +107,34 @@ Hybrid mobile apps are developed for multiple platforms and behave like native a
 ---
 # Progressive Web App(PWA)
 A progressive web application (PWA) is a type of application software delivered through the web, built using common web technologies including HTML, CSS and JavaScript. 
-+ It is intended to work on any platform that uses a standards-compliant browser. 
++ It is intended to work on any platform that uses a standards browser like;   
+**Google Chrome
+Mozila Firefox
+Microsoft Edge**
 
 Functionality includes working offline, push notifications, and device hardware access, enabling creating user experiences similar to native applications on desktop and mobile devices. Since progressive web apps are a type of webpage or website known as a web application, there is no requirement for developers or users to install the web apps via digital distribution systems like Apple App Store or Google Play.
+Examples of **PWA**
++ Trivago Hotel Booking
++ Pinterest
++ Tinder
++ OLX
++ Starbucks
++ Forbes
++ Alibaba
++ AliExpress
+### Advantages of PWA
++ Working in Offline mode
++ App-like interface
++ Improved performance
++ No nedd to publish apps on apps store
++ Specific hardware features example;push notifications
++ Auto updated
++ Linkable — Can easily be shared via a URL, and does not require complex installation
+### Disadvantages of PWA
++ 
 
-## Website
+
+# Website
 A site or website is a central location of web pages that are related and accessed by visiting the home page of the website using a browser.
 A website can be made up of a single page or it could have thousands of pages. Each page will have its own text, images and other elements. All web pages and elements are then placed in a folder and stored on your web host server.
 
@@ -134,6 +157,8 @@ In other words, in order to display website on the Internet
 + A server 
 ![](https://lh3.googleusercontent.com/I6k1-zUF-px_yWmsHyKOgBV-KCLAyVa6oaNzmRiwon2yHj2rtP7aFAR3Wr6NeTbd1xBGSGQYtxHfak2bJmg7jlqqDdHToXbKP9Z3ADYtnAJ7UImHegzJX-KD2aOaHhcFY_0IUlNw-q5iV2mguXrXgJAAOYdG69OlhunhUtreeSjR2c0fgl9mRPHMdfaeClQ_dvJNBuhiOYY2dBYTaYOQ3IPuHTnmVmMdynRm1jLgRCAi9fB9QKsHNyIVk5zh1KOT5PixIgMHqI75IDnvVSR56GZORUDnH98xa3G9h_xmRa40k7FsMHES6ND-Om6dqtQ304Us3oDOyc2femsCKZwhMequaL9wq7cCEmf7ozixhxhyMVRl8uVKE-Qhp2R8WBXbYFBCqvyaaxSkg-UwZBcOq15LALiBr_giU2hqu-LKmFjnKSqmSM1ih6RNotYwtRVOKDz3LZNg0A86NzYS_1pfsckXbrCUoptMAzQL9--Ma3wOSTyLdd7OU_gcak040mq98UPxoJ2v1WYRNGzi5wXnL3IG-I8tDdpAi6tAXd7SVKLQhleG3xFjRbGkyuBWxn5fMpg-L5_0LumYcgnEwKeN8mYScF4tIBnuL3B6a7yY0NSl7Ua0MaSCfFJBcM5uM-9hUikmDTlgZ1DJjk_pziag_I0WpGURRjyftYFme6Oc_FChfEJxuruAzDvE=w500-h383-no)
 Examples of website: amazon.com, flipkart.com,Google.com,Yahoo.com,guru.gndec.ac.in
+---
+---
 
 #### Which one has better performance and User Experience – Native or Hybrid Apps?
 
@@ -144,6 +169,15 @@ If your app’s user experience and performance are bad, the user will have some
 Native Apps
 
 ## Native vs Hybrid Apps
-Hybrid applications are a combination of native and web apps. The inner workings of a hybrid application are similar to a web app, but it installs like a native app. Hybrid applications have access to internal device APIs, which means they can use resources such as the camera, storage and GPS.
+![](https://lh3.googleusercontent.com/2I_wDY7_DRlzu2pRcdx6dY38FOu-WIy9lQbzjZ7VWQ3Us_mLJwx-l1qeWUtE8obxQUnvutzSwfPCIKGyF4CiofI_EHUv0uBbEJ2seU-65McWD3SS0jwM68aFn1MQicHfS0yS9SBoZLZFUaI6fyowRgAKVO4C4kcQi-VYLYVb6VFN1tY1_84AAllUgjlew6WKVm5guf4nQ_sE-yIBADWlfNzlfc3hyJXIzQX7DAO_fb6yMKXEpLtBC8tq-5CBOSvtRwgFnbF5Sp5CGqa6jF8A021Pqzatr6qkvvJGAQ8fwZ925PDTI7siqjyaq7at1fKUj4RBtMRUL8O0yQrG2No0r11nK3fjMxWsXcbM1vrSukjPMJFn8PE6qfy9V8RSAVRanox8piOfJTJjQFipO3tSGZj4KgJrPsj5YoYGEx4jVQ1InjCtDaM3oyLbj8oWFG8_VhJIKQPg4dwZO4nMiZrjG8YmHqLZwbOJJNuazRK7Bs466y4xNEWEpXUV5Enxz50jtoGH2Kee5HFYBjxlm_j1esvLPgqkS1lRTpK7jGIYG049h41G9gvgLqMeWe353LnUiGCmJXb2y5cQceHESJWbnXeIZlKfsdpoO2mGfEQgLoygVwEEjYF1kNreCp0MtJNn9Z0Ri9fpYA78kDvNRF4-UcIkLNgxr6p58C1rMOGR80gAxyo3qlwx0cbf=w118-h639-no)
 ## 12
 ![](https://lh3.googleusercontent.com/2ssiyuW-40pYbeAOadNIErmceXbGOJ2hxe5AIqVA-8fbR4KDyHQ3Rsf3QuAWEW1nbkwj6_P2sedcFS9qkYaE5EdW_ELoSWsZyLOY33fp_fXZQYGXsSgoS2wFdgwuNz9qvIRed9cwfR9Gcp0H_mhCwM7iYYmbmnknfpKgg-ltK9b_IamFisz9h-is2QtLV2GfFYuTzA2c8JTivWgo6QxEH782LgDlJoq9ppzzuZhdL8ZWrONE1dIFTUbIBW4oQq0HNfnMJw5_ESTwqT7X3EahtZC5FWwLmA-MChnT_fUuCa4YXd-OMpsDrdyT63TpHJ90hILLhu-Jcm1bAyCuv-xcolJuYccqzyAs1w2f9krIB8n-_HyGcwcDJwK-LF16e57_6d7hGf79joKDQrEs_S2N941hGicm-1g2YFjZhEOl10yphsSpuriQVCGxOUuiXYtrrH4iMfRfixLFAy7R2Lbng8TJtcVtKTBLUIEUty6H3M4O28PgYWX_I_J7ke76oAzLPUbLvmsH3LhbwIwae45HPhUPRx_YES-KkiQpQ-52v0HymF-kDTnUuu_NV3oWbM6yJ8dDGjHV8vltIFV5yc_3mK_6ymHno708Wxuh7Q_37yZEk6Y2eg6mzckwb10jqkcBH00BXwfopzoStduHxblST_AIDoUqy7w1bOEaQ0-wpZBNj-DUiv8zodFe=w344-h590-no)
+# Conclusion
+### Native Apps Best For
+native apps are so specialized and complex, they are best suited for performance and user experience.
+
+It is also a good option if we don’t have budget or time constraints and if our app requires extensive use of device hardware features.
+### Hybrid Apps Best For
+Hybrid apps are a good option if want to reach a broad audience rather than a specialized user base.
+
+It is also great if we don’t have the time and money to invest in two different native apps.
