@@ -104,8 +104,30 @@ Hybrid mobile apps are developed for multiple platforms and behave like native a
 + Onsen UI
 + Xamarin
 + Sencha Ext JS
+---
+## Website
+A site or website is a central location of web pages that are related and accessed by visiting the home page of the website using a browser.
+A website can be made up of a single page or it could have thousands of pages. Each page will have its own text, images and other elements. All web pages and elements are then placed in a folder and stored on your web host server.
 
+Each web page is written in codes and these codes describe the layout, format and content on the page. The most common coding language used to create web pages is HTML. 
++ In this time JavaScript>PHP>Python>Golang>Java are mainly used for desiging a Website
+#### What is the difference between a website and a web page?
+A website refers to a central location that contains more than one web page or a series of web pages. For example, gndec.ac.in is considered a website, which contains thousands of different web page
 
++ website as a book and each individual page is a web page 
+![](https://lh3.googleusercontent.com/fxmZUeSx6QOlYqRzunxG7I6YZGQXZZrHzCCOnHmB01soN4d1j8m7-wfN7lZbxLMBezjWMUwDUBM4CctN_TRV10yK706GY04fPCH07_oc-bTT6wbr2BEobguN6PtdFsuYkDuJWjDOexYEhGXYmbXB5k961GycPh15XwtRN1KGq0lOyXmSw9FBoj4FKNgNrzB-Quv68qUGGhNf7Vghv6I75m73-XFT9f53jZCjTxG75YoTn_jR2c3nxzTBmzFeAqAJRSllMKSNBjF6A8NuCCqQKA1psh8H9OixA4dG8mqWjOibrbpOQW6gUaB2T1vvEy3ZhStb1TqkKHi4cI9313pF8fCxqOf1ADF-WHKaBoYYtCDv-Uap9k-D5W3A1oe50OOWXFQlzRXL3_Xvz0CRgKusy9WwnCrtoc7BNKKc_b2xZP40nh8_698X1nmnmp5bEZb3Fhux3t7qy8NsKrrBhm_GsIQMX4EMwHBd0tdxRfjfl45lWuafOiEGQdsK1_g-aj8YEQUR11p0eQDwFeTlHoaAt3O_MSQGsqojNh7ct6VJKm1_J2XQkkT13Fv89TVwsEMxph4QKKka69HfVHUuFCzLq1zKxZCIC-Y87Yl3rFidG6bZryxwoejyx0Hy-upz1x4tavl077Umxg_67Hk97Ahrcv6v8CGke3uhaoDskWg2NFVjAH3PtugqArKo=w632-h629-no)
+
+### How a Website works
++ A **website** is simply a collection of web pages of codes – codes that describes the layout, format and content on a page. 
++ The **web server** is a internet-connected computer that receives the request for a web page sent by your browser.
++ The **browser** connects your computer to the server through an IP address. The IP address is obtained by translating the domain name. (this part is all done automatically by browser so we don’t have to look up the IP addresses owmself.)
++ 
+In other words, in order to display website on the Internet
++ A website
++ A domain name
++ A server 
+![](https://lh3.googleusercontent.com/I6k1-zUF-px_yWmsHyKOgBV-KCLAyVa6oaNzmRiwon2yHj2rtP7aFAR3Wr6NeTbd1xBGSGQYtxHfak2bJmg7jlqqDdHToXbKP9Z3ADYtnAJ7UImHegzJX-KD2aOaHhcFY_0IUlNw-q5iV2mguXrXgJAAOYdG69OlhunhUtreeSjR2c0fgl9mRPHMdfaeClQ_dvJNBuhiOYY2dBYTaYOQ3IPuHTnmVmMdynRm1jLgRCAi9fB9QKsHNyIVk5zh1KOT5PixIgMHqI75IDnvVSR56GZORUDnH98xa3G9h_xmRa40k7FsMHES6ND-Om6dqtQ304Us3oDOyc2femsCKZwhMequaL9wq7cCEmf7ozixhxhyMVRl8uVKE-Qhp2R8WBXbYFBCqvyaaxSkg-UwZBcOq15LALiBr_giU2hqu-LKmFjnKSqmSM1ih6RNotYwtRVOKDz3LZNg0A86NzYS_1pfsckXbrCUoptMAzQL9--Ma3wOSTyLdd7OU_gcak040mq98UPxoJ2v1WYRNGzi5wXnL3IG-I8tDdpAi6tAXd7SVKLQhleG3xFjRbGkyuBWxn5fMpg-L5_0LumYcgnEwKeN8mYScF4tIBnuL3B6a7yY0NSl7Ua0MaSCfFJBcM5uM-9hUikmDTlgZ1DJjk_pziag_I0WpGURRjyftYFme6Oc_FChfEJxuruAzDvE=w500-h383-no)
+Examples of website: amazon.com, flipkart.com,Google.com,Yahoo.com,guru.gndec.ac.in
 
 #### Which one has better performance and User Experience – Native or Hybrid Apps?
 
