@@ -1,4 +1,4 @@
-## Native Apps
+# Native Apps
 A native application (native app) is an application program that has been developed for use on a particular platform or device. It is install from apps market like play store for Android and App store for iOS users.
 some examples of Ntive apps are
 * Twitter
@@ -29,7 +29,7 @@ In the mobile world, there are two operating systems that share almost 100% of t
 * Flutter
 * NativeScript
 ---
-## Web application
+# Web application
 A web application or web app is a client–server computer program that the client (including the user interface) runs in a web browser.
 Some examples of web apps are:
 
@@ -69,7 +69,7 @@ The web application requires a web server to manage requests from the client, an
 + ruby on rails
 
 ---
-## Hybrid apps
+# Hybrid apps
 Hybrid mobile apps are developed for multiple platforms and behave like native apps. It’s a combination of a native app and a web app.
 + These apps are developed using web coding languages like HTML, CSS, and Javascript.
 
@@ -105,12 +105,18 @@ Hybrid mobile apps are developed for multiple platforms and behave like native a
 + Xamarin
 + Sencha Ext JS
 ---
+# Progressive Web App(PWA)
+A progressive web application (PWA) is a type of application software delivered through the web, built using common web technologies including HTML, CSS and JavaScript. 
++ It is intended to work on any platform that uses a standards-compliant browser. 
+
+Functionality includes working offline, push notifications, and device hardware access, enabling creating user experiences similar to native applications on desktop and mobile devices. Since progressive web apps are a type of webpage or website known as a web application, there is no requirement for developers or users to install the web apps via digital distribution systems like Apple App Store or Google Play.
+
 ## Website
 A site or website is a central location of web pages that are related and accessed by visiting the home page of the website using a browser.
 A website can be made up of a single page or it could have thousands of pages. Each page will have its own text, images and other elements. All web pages and elements are then placed in a folder and stored on your web host server.
 
 Each web page is written in codes and these codes describe the layout, format and content on the page. The most common coding language used to create web pages is HTML. 
-+ In this time JavaScript>PHP>Python>Golang>Java are mainly used for desiging a Website
++ In this time JavaScript>PHP>Python>Golang>Java are also used for desiging a Website
 #### What is the difference between a website and a web page?
 A website refers to a central location that contains more than one web page or a series of web pages. For example, gndec.ac.in is considered a website, which contains thousands of different web page
 
