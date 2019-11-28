@@ -1,6 +1,6 @@
 # Native Apps
 A native application (native app) is an application program that has been developed for use on a particular platform or device. It is install from apps market like play store for Android and App store for iOS users.
-some examples of Ntive apps are
+some examples of Native apps are
 * Twitter
 * Instagram
 * facebook
@@ -145,7 +145,7 @@ Examples of **PWA**
 + Dev Tools
 + Workbox
 
-
+---
 # Website
 A site or website is a central location of web pages that are related and accessed by visiting the home page of the website using a browser.
 A website can be made up of a single page or it could have thousands of pages. Each page will have its own text, images and other elements. All web pages and elements are then placed in a folder and stored on your web host server.
