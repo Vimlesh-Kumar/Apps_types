@@ -159,6 +159,7 @@ A website refers to a central location that contains more than one web page or a
 + website as a book and each individual page is a web page
 
 ![](https://mysiteauditor.com/blog/wp-content/uploads/2014/05/web-pages-versus-websites.png)
+![](https://drive.google.com/file/d/1eENPJYSMRMxZgFXj3lxRk43jn8EdoZ6i/view?usp=sharing)
 
 ### How a Website works
 + A **website** is simply a collection of web pages of codes – codes that describes the layout, format and content on a page. 
