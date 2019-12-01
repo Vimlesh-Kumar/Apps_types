@@ -188,6 +188,7 @@ Native Apps
 ## Native vs Hybrid vs Web Apps vs PWA
 ![](https://miro.medium.com/max/1594/1*mfY-W2jQWAKTlphuTaCbJg.png)
 ![](https://lh3.googleusercontent.com/4-Ef6i4Y7rNcVO1Eb7I5vca2i0HhtZ8k-xHpX-Cv6-l7mlPKeLBdeJ_GFJtKwJ5UPXLR6VWyHcsUoj4yMslkgK0IsU6ch5QYcxwc1iUwP2zNDkLo4NV8BEznc6jcUBE9m7ko65UTj9Uc1teCO1eMHC4VABNGCVLcc_3-au6dILhMRMryrs9quXY-qBOROeeFHEtB_bfakNQnuFydcAPtIyEn4BZfNOtUdToWjL1xQ8b8-5Gqk1GNtUIhKs2J2B5riMu84SwVMqz5BFGAzm2f00lz0ezF0zHVSPpHYALVlvJATMhk8h-_dElGI81hb-LybSfZ-b2D7XRv6IP_Y-nykUdDRku5IEwk1Mp35KuxZagVZETcjInrKI3On6N9DFRldtOFH88QckF8IeSdQuw3UyVD0kry4KICioCk0dXDuu_nQFmH8Iq_7uDpCMHAOUnfURA4VIGmI_RQYekZSlZaTtM2VzTrAjTk6oAfNbCL-ERSlIG1uUR9qu_gYLlvShgZCEhNJObgs-H0Nj1Z4tv6709zXvs4Sel84H9z_eJWDjsO4ktodQghbOqNyzOwnA3n80GeCEF32_EouU0g2hG8LvvSK80zy2brDj7m7VsE9Pp5ACPTM03jx3I38IwaVhBAgjn14PgXWROGebR6keAxewJ_NqLBdf9Imese76rqdRTgrZ2u73fPASen=w680-h639-no)
+![image](https://drive.google.com/file/d/1eWKbFRqWScXBDglk9f15weDCTLj-mqGl/view?usp=sharing)
 
 ---
 # Conclusion
