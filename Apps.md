@@ -86,7 +86,7 @@ Hybrid mobile apps are developed for multiple platforms and behave like native a
 + Low cost
 + Slightly faster to develop because of single code base
 + Only one app is developed for all platforms.
-+ Launch quickly ater testing app
++ Launch quickly after testing app
 ### Disadvantages
 + Typically, hybrid apps are slower than native apps.
 + These apps are dependent on a third party platform called wrappers
