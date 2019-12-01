@@ -53,7 +53,7 @@ The web application requires a web server to manage requests from the client, an
 * Eliminating space limitations
 * They reduce software piracy
 * They reduce costs for both the business and user
-* Automattically get updates 
+* Automatically get updates 
 
 #### Disdvantages
 + Required an active Internet connection
