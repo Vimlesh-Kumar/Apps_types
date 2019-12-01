@@ -139,7 +139,7 @@ Examples of **PWA**
 + Unable to Access Various Device Features
 ### Tools and Framework
 + Angular JS:- It is a  tool for developing the client-side part of web apps.
-+ Polymer:- It is developed by Googleand it is a lightweight Javascript framework.
++ Polymer:- It is developed by Google and it is a lightweight Javascript framework.
 ##### Tools 
 + React
 + Lighthouse
@@ -152,7 +152,7 @@ A site or website is a central location of web pages that are related and access
 A website can be made up of a single page or it could have thousands of pages. Each page will have its own text, images and other elements. All web pages and elements are then placed in a folder and stored on your web host server.
 
 Each web page is written in codes and these codes describe the layout, format and content on the page. The most common coding language used to create web pages is HTML. 
-+ In this time JavaScript>PHP>Python>Golang>Java are also used for desiging a Website
++ In this time JavaScript>PHP>Python>Golang>Java are also used for designing a Website
 #### What is the difference between a website and a web page?
 A website refers to a central location that contains more than one web page or a series of web pages. For example, gndec.ac.in is considered a website, which contains thousands of different web page
 
@@ -163,7 +163,7 @@ A website refers to a central location that contains more than one web page or a
 ### How a Website works
 + A **website** is simply a collection of web pages of codes – codes that describes the layout, format and content on a page. 
 + The **web server** is a internet-connected computer that receives the request for a web page sent by your browser.
-+ The **browser** connects your computer to the server through an IP address. The IP address is obtained by translating the domain name. (this part is all done automatically by browser so we don’t have to look up the IP addresses ownself.)
++ The **browser** connects your computer to the server through an IP address. The IP address is obtained by translating the domain name(this part is all done automatically by browser so we don’t have to look up the IP addresses ownself.)
 + 
 In other words, in order to display website on the Internet
 + A website
