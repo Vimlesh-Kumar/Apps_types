@@ -67,7 +67,6 @@ The web application requires a web server to manage requests from the client, an
 + Angular.js
 + Bootstrap
 + ruby on rails
-
 ---
 # Hybrid apps
 Hybrid mobile apps are developed for multiple platforms and behave like native apps. It’s a combination of a native app and a web app.
