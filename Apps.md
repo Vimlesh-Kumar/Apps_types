@@ -1,5 +1,5 @@
 # Native Apps
-A native application (native app) is an application program that has been developed for use on a particular platform or device. It is install from apps market like play store for Android and App store for iOS users.
+A native application (native app) is an application program that has been developed for use on a particular platform or device. It is installed from apps market like play store for Android and App store for iOS users.
 
 some examples of Native apps are
 * Twitter
@@ -20,7 +20,7 @@ some examples of Native apps are
 * Content not seen by search engines
 * Support of multiple versions of the application
 
-In the mobile world, there are two operating systems that share almost 100% of the mobile device market: iOS and Android. so the two main mobile OS platforms are Apple's iOS and Google's Android. Native apps are written in the code preliminarily used for the device and its OS. For example, developers write iOS applications in Objective-C or Swift, while they create Android-native apps in Java.
+In the mobile world, there are two operating systems that share almost 100% of the mobile device market: iOS and Android. So the two main mobile OS platforms are Apple's iOS and Google's Android. Native apps are written in the code preliminarily used for the device and its OS. For example, developers write iOS applications in Objective-C or Swift, while they create Android-native apps in Java.
 
 ### Tools and Framework
 * Apache Cordova
