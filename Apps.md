@@ -156,7 +156,8 @@ Each web page is written in codes and these codes describe the layout, format an
 #### What is the difference between a website and a web page?
 A website refers to a central location that contains more than one web page or a series of web pages. For example, gndec.ac.in is considered a website, which contains thousands of different web page
 
-+ website as a book and each individual page is a web page 
++ website as a book and each individual page is a web page
+
 ![](https://lh3.googleusercontent.com/CpPhnDPVLH2IW4M9jE1LsNa4dmUD-Nf-GgnB1892-_nH_A2rf3mwvScSkyiQ2nwldcol60rBXC5bU8s59N-5fKYuZWhy4btnkaBjV9Z1pdsPw6QWO82n2AqcTanG7pOSdP5CJFPjt_8n_Cjo8pDbIm9_mOOKWcZ43pkt0GG5Cop1CWsU6T_8o_WESix--fPwdPGKHFctZj99v8xrYbroKxnoxwNHCMc2X9yHt_bC58EdO2vh0rWR_vEvmP6r3kbjKpUIszfipNZ-agMxkTiplJD8nXUQIfOMrx6ciTA-h_nsE2oT16yLpitV_aTfpbkhzcIrUOXSER8ci3pT7RGjp6RHnDy8d_jkmkXG9auxfWoVJz0RvfaaDU7qbzgwzIVRhlxteA7ROZZkcbWPToc7HhJbPeiB1d1tfzlgHMj4gvUbsNowwNJFPm9SI-Zh1kT74-Kt8egP1FaXBPtXD7W4IoM7AtM6HC1WnqJkR3B4dkaicy6bqhdyU-kZywmTYbutHcHuT4GSa8D5eH40GO28rNWPO9_8T0QFkL2j1IZQ56XRDJFEprUOCXpAF3kc4YHKQIuvQx2vKL5aBah4GsuiNqfWOW2dAt9NNqgTY2ZOxfzO8z5oSVpK5rhXr1zIzljNf4gaoMFxJkISMTUpuUNRy93M5_aXhcuoceHrWWU8UxIpx2LrmqTAJPfD=w632-h629-no)
 
 ### How a Website works
