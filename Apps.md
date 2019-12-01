@@ -109,7 +109,7 @@ Hybrid mobile apps are developed for multiple platforms and behave like native a
 A progressive web application (PWA) is a type of application software delivered through the web, built using common web technologies including HTML, CSS and JavaScript. 
 + It is intended to work on any platform that uses a standards browser like;   
 **Google Chrome
-Mozila Firefox
+Mozilla Firefox
 Microsoft Edge**
 
 Functionality includes working offline, push notifications, and device hardware access, enabling creating user experiences similar to native applications on desktop and mobile devices. Since progressive web apps are a type of webpage or website known as a web application, there is no requirement for developers or users to install the web apps via digital distribution systems like Apple App Store or Google Play.
