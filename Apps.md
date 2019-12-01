@@ -1,5 +1,6 @@
 # Native Apps
 A native application (native app) is an application program that has been developed for use on a particular platform or device. It is install from apps market like play store for Android and App store for iOS users.
+
 some examples of Native apps are
 * Twitter
 * Instagram
@@ -39,7 +40,7 @@ Some examples of web apps are:
 ### How a web application works
 The web application requires a web server to manage requests from the client, an application server to perform the tasks requested, and sometimes a database to store the information. Application server technology ranges from ASP.NET, ASP and ColdFusion, PHP and JSP.
 
-![](https://lh3.googleusercontent.com/iyfVWuGOwm1PHZDjhpFpeCybojWz1fzrMEYfZjZ3wtfbENwsiVv2qZhljX_7-S1fL1_CRPy6S4LSSNDRvGnF1w3HjnOErP6kxspHYsTVFkR_Ng5oTEpH8BgHKSobHEknaAHy4I4Duiz-JFGap6_9inu8SyjvHVbFqY0IxtFY6k-L15xNo3iB27BFhIKJ-5j_VVQNMl6MOVZifAWxGs0CCcjVj11Q8CFkKuOAI6AqDV8AhuNat7JUJ4D9kMa2anAFkTPaUd7BKRhsCasm8eo0ES8-Tunv_na4_BpFYL1qI5rADa5MjOEduiVosBBROhhUXPqGpmOocOV3qSuwe55vq9FJ_iOEFWougQd5Q8cQMVziC-_3HoBNtkPBi_4n24vgyFLuVOZoNbdRKWKTCHYP7u-zPqpyMSBEL_ojVAapybCCtZaELTElb8GaTg5H4YhxppebugLaFMNL8K523KvvipDPoZKutlgF0ui8SncfR7iCEZY0VjpsLWqwQmsm1TYGdNAUZB6-PcHNBdX6rLkIjdGN2TkdvdhDnIbZ4SrKd1XoJoIh6Pgx9aP0YRu-hpBhtz8VWXKPBrQfEI0sYKGJyMRAQVuISFUVnGyAgERhJIV0Z7PgfU2_FfVVqvWc997yyrUt3l-02ElLRLVIJmnDtlqLzFlAos9oHRnMHIC7GGD5r_Klv46Ggjjm=w504-h296-no)
+![](https://lh3.googleusercontent.com/2AimBAFGAZlx6eXulm2Fw7uQNVeUO93B2DSsOjvKyRovXRVExIb_QoK43e4ypI_h-7LtDDkmzbyRtJrfrZ_ZhZpwBtSMYXiPWo4vPQWJ_xPuav72ANON2dqoaTgrR_e-PSbZgQ-BAuJbenaki70ATuBRxy_VZgbjY6g9OEGek4QYprrmEJtCIJsMN7qb2G8FG8z6RuNVzW0Zq_yiNXMwL7f3T5cq7fhbVBM9eCQxFEaXLT7_wCP3wCWGDOBgFowVAGGwEQAtoTLNlfzQ9gUZZNiA3JnomZlJlqTmNDXMbPQqAiKJxZ0g0JVQifaevyMT5lvbuhOIl2xdNds9gxmWu02Z-YlV-qKy07HAC6NU_NVILFUc9aOgtXA3o4lWYgkx79SwZIadR5NzhchFM8viaCjjGXD0lZni1Wss3Uc-E-JeGPb1kATr5Nd9XvFPKNVaT5wf9gq4vXxh-dkDw4oL22CkqFn8CWzXAaSnF7ptE1a4LS_JZ89i8vESWoO4bcgooomLFSVP4dHK4B0f6AAhQZlECZr1HC_Mkw6GBcf2SS-HABTLpvsAHvkIyD65HAl4I9z0chGFkYVOwoMfaFV3PSIIxF3omsDZ60q3oPT0HigLhQUxJ6d5zYzIQHwoXV9lJ5m3gCRw3kjd252103-Czl43bvzgXSAu0zBxluHP1GC8TrXj70vnqDLV=w504-h296-no)
 1) User triggers a request to the web server over the Internet, either through a web browser or the application’s user interface
 2) Web server forwards this request to the appropriate web application server
 3) Web application server performs the requested task – such as querying the database or processing the data – then generates the results of the requested data
@@ -78,7 +79,7 @@ Hybrid mobile apps are developed for multiple platforms and behave like native a
  + Instagram
  + Gmail
  ### How a Hybride App works
- ![](https://lh3.googleusercontent.com/AgWpYqnY13VjeAxco1rohDNan9NHAAT9gGZCpDR1V9TE2aU5qAbyC0ttG0xtcO--J04bqZaLbtW4XMhIg1gvBcYb2iPOqXvKXYmT_g5L-z5svYsXuYEuy5m13JTJQ3x5RtUsj_YDkDZiIbWUGFeegXbrbryFLEvOo3588X7zShnhuXA-vIhYhCuc_vahQ1zPEzIQQcNlNdT1j5Z4gIIqFiKUYlaxN66vNEmpHn0tvLvM6yuWnl4kl3XpwTwDgRqcOEQgtADD0aK8awEmXrow-YpMXw-TIVcU8bBDYKRwkOCAzKfdaQwiaZsy6DpRUXFTpfVinx9TeOZpdjJiWL_cqU1HzSQUo8tgON7R17SU0VrBVZ7IJpYA88SmXYenBd3C1RE3zLpU-_rTgHkom1PAOuhZCrSGesO5eVGJtjqPKvc-hohYmUCiPo8a4iqf85RfKmNPS7H5hxVnpMtheN2cgaTNxR3t5jBasc0d0-GvWsWUF2HnO3ZGClTF8SaDIYjS_SCZWFTxJnw-ud2syb0E8yRvjbFYIfatQr_n51TxTNCrCmS3TFIbuM2rNP6K-b_HVtbzsXA46jZqYW1j48-uvyTexGYIJbVTku0-RpY_BrRZKL7fax_NJf0or325vT2lDuBg88WKjm0twS6z1oyv2tE6z6lCCP8SKlokp1xGfQbV6H9Jq1Q4aoaP=w852-h639-no)
+ ![](https://lh3.googleusercontent.com/a2Yxl7z9s6UGadkZHjsxWfFc7vyzUu-31ums91YO2jIrc_vw5xncv3_Zy2mHL67imC3hpyINC5cVaZlormo2hUT5zAKzu1O9cZvJsFWRixcS0Fi0A1cQ_xSncQbFwmIIEWac9mmP8UnThgUFRxmFgrFM52jAjRoX5AkZlS_MmguIEGOQ8qJSMVuOsJ-O-ll3C3yaxFyd28h0ncNuQyxAuJkWgaeI4t7nOp2uZzUxFkKYBaQr1r1p6qjpj8UvKgRvvvGWRjPH50VWZjlifzLU5fOsQKVKanZHaskNDrNSBsXPGBhOYrjfed9z22dpiArxsUU8wvo42VBDDWDwwZ8SIRqI6QOKib6xCd64QIDe-aPl76OERmW31_-mKdEpbDPSco2ct0uJ4z_ElDeEhNV0R530SOBZJ7BsOxKbl0sM113YcIyUK3rLrhojqPhuiBKRaCzWBIsrnetKJhnvfUqBehHbYKf4Ceq4Kh6X9cXvKEENcNHFYImagvx620IBA5pJ_ljRZWFkWiZHAKi49SOS62X5nGwpJwYkZieptOtImIf50mfFf-girbjgMQoBt3EjTXN21CHNOhbyAOphQalJxxGzCQ1iY3kdkNw-7Z2cXVuvUxpolaPA2Ul5fhq_1dH8jc3hAR9_Pwx4XzUrM1a_3Zscqcs7w2FByMREhBQheBCgE_yJw1sBlFLU=w852-h639-no)
 
 ### Advantages
 
@@ -112,6 +113,7 @@ Mozila Firefox
 Microsoft Edge**
 
 Functionality includes working offline, push notifications, and device hardware access, enabling creating user experiences similar to native applications on desktop and mobile devices. Since progressive web apps are a type of webpage or website known as a web application, there is no requirement for developers or users to install the web apps via digital distribution systems like Apple App Store or Google Play.
+
 Examples of **PWA**
 + Trivago Hotel Booking
 + Pinterest
@@ -155,7 +157,7 @@ Each web page is written in codes and these codes describe the layout, format an
 A website refers to a central location that contains more than one web page or a series of web pages. For example, gndec.ac.in is considered a website, which contains thousands of different web page
 
 + website as a book and each individual page is a web page 
-![](https://lh3.googleusercontent.com/fxmZUeSx6QOlYqRzunxG7I6YZGQXZZrHzCCOnHmB01soN4d1j8m7-wfN7lZbxLMBezjWMUwDUBM4CctN_TRV10yK706GY04fPCH07_oc-bTT6wbr2BEobguN6PtdFsuYkDuJWjDOexYEhGXYmbXB5k961GycPh15XwtRN1KGq0lOyXmSw9FBoj4FKNgNrzB-Quv68qUGGhNf7Vghv6I75m73-XFT9f53jZCjTxG75YoTn_jR2c3nxzTBmzFeAqAJRSllMKSNBjF6A8NuCCqQKA1psh8H9OixA4dG8mqWjOibrbpOQW6gUaB2T1vvEy3ZhStb1TqkKHi4cI9313pF8fCxqOf1ADF-WHKaBoYYtCDv-Uap9k-D5W3A1oe50OOWXFQlzRXL3_Xvz0CRgKusy9WwnCrtoc7BNKKc_b2xZP40nh8_698X1nmnmp5bEZb3Fhux3t7qy8NsKrrBhm_GsIQMX4EMwHBd0tdxRfjfl45lWuafOiEGQdsK1_g-aj8YEQUR11p0eQDwFeTlHoaAt3O_MSQGsqojNh7ct6VJKm1_J2XQkkT13Fv89TVwsEMxph4QKKka69HfVHUuFCzLq1zKxZCIC-Y87Yl3rFidG6bZryxwoejyx0Hy-upz1x4tavl077Umxg_67Hk97Ahrcv6v8CGke3uhaoDskWg2NFVjAH3PtugqArKo=w632-h629-no)
+![](https://lh3.googleusercontent.com/CpPhnDPVLH2IW4M9jE1LsNa4dmUD-Nf-GgnB1892-_nH_A2rf3mwvScSkyiQ2nwldcol60rBXC5bU8s59N-5fKYuZWhy4btnkaBjV9Z1pdsPw6QWO82n2AqcTanG7pOSdP5CJFPjt_8n_Cjo8pDbIm9_mOOKWcZ43pkt0GG5Cop1CWsU6T_8o_WESix--fPwdPGKHFctZj99v8xrYbroKxnoxwNHCMc2X9yHt_bC58EdO2vh0rWR_vEvmP6r3kbjKpUIszfipNZ-agMxkTiplJD8nXUQIfOMrx6ciTA-h_nsE2oT16yLpitV_aTfpbkhzcIrUOXSER8ci3pT7RGjp6RHnDy8d_jkmkXG9auxfWoVJz0RvfaaDU7qbzgwzIVRhlxteA7ROZZkcbWPToc7HhJbPeiB1d1tfzlgHMj4gvUbsNowwNJFPm9SI-Zh1kT74-Kt8egP1FaXBPtXD7W4IoM7AtM6HC1WnqJkR3B4dkaicy6bqhdyU-kZywmTYbutHcHuT4GSa8D5eH40GO28rNWPO9_8T0QFkL2j1IZQ56XRDJFEprUOCXpAF3kc4YHKQIuvQx2vKL5aBah4GsuiNqfWOW2dAt9NNqgTY2ZOxfzO8z5oSVpK5rhXr1zIzljNf4gaoMFxJkISMTUpuUNRy93M5_aXhcuoceHrWWU8UxIpx2LrmqTAJPfD=w632-h629-no)
 
 ### How a Website works
 + A **website** is simply a collection of web pages of codes – codes that describes the layout, format and content on a page. 
@@ -166,7 +168,7 @@ In other words, in order to display website on the Internet
 + A website
 + A domain name
 + A server 
-![](https://lh3.googleusercontent.com/I6k1-zUF-px_yWmsHyKOgBV-KCLAyVa6oaNzmRiwon2yHj2rtP7aFAR3Wr6NeTbd1xBGSGQYtxHfak2bJmg7jlqqDdHToXbKP9Z3ADYtnAJ7UImHegzJX-KD2aOaHhcFY_0IUlNw-q5iV2mguXrXgJAAOYdG69OlhunhUtreeSjR2c0fgl9mRPHMdfaeClQ_dvJNBuhiOYY2dBYTaYOQ3IPuHTnmVmMdynRm1jLgRCAi9fB9QKsHNyIVk5zh1KOT5PixIgMHqI75IDnvVSR56GZORUDnH98xa3G9h_xmRa40k7FsMHES6ND-Om6dqtQ304Us3oDOyc2femsCKZwhMequaL9wq7cCEmf7ozixhxhyMVRl8uVKE-Qhp2R8WBXbYFBCqvyaaxSkg-UwZBcOq15LALiBr_giU2hqu-LKmFjnKSqmSM1ih6RNotYwtRVOKDz3LZNg0A86NzYS_1pfsckXbrCUoptMAzQL9--Ma3wOSTyLdd7OU_gcak040mq98UPxoJ2v1WYRNGzi5wXnL3IG-I8tDdpAi6tAXd7SVKLQhleG3xFjRbGkyuBWxn5fMpg-L5_0LumYcgnEwKeN8mYScF4tIBnuL3B6a7yY0NSl7Ua0MaSCfFJBcM5uM-9hUikmDTlgZ1DJjk_pziag_I0WpGURRjyftYFme6Oc_FChfEJxuruAzDvE=w500-h383-no)
+![](https://lh3.googleusercontent.com/WIWC3QFrUwqLqhWFbJ8nQwbXrpAINsNCCZ60N6CtTMjTWTeSXhunuSLOXl7c9uYeHmPXkmS1M-1TOAilEZjDaF9Yh48Iy2oKMRL_JlDGfnitRaTcadNc_M4RiooeKhYTCIi3UJG9xiHl85_LKab3ls-937JPccC95ZWIGw1LjHCyV_EF0i9mb6-91hfElV5Jkd6i_I39KInKVbnN-p8KsJIjQB0PNPdZMq-GVX__hnO6mC-xb8P9bPlHPYK33RpBTctzC2j6sEXrO76HVPvGiJjjPasDvga-XolCbHYfL-Iug1BgG_0zwYyAt6FGDzf9R9WnBJ5GCbYzbKS3LflCDBYk61tEnMguoHqkgvGcZJ2TABR3hJfWUV0mr4dvwauKKxbZN7ediMFTiIDbzSWsaq9XOLFKWACxSjEHm3Ym7yf3mhXEzXZCwbaFUTMGLVYsWZ6RcPdDFXIH2EHvDm95c__YCW3RHIiOq4tWbCQQyTJePi6N9DDXVMDgKVNakHQqP70PcYjyNzbfShClUw6EKWP5l0o68Sw9hNBpiGcFKCS1ZeKoNEejHo9uoowpLxqatEuIrJVqUbudstzAkd1Nm5waQE-jlwyERXxgs6tQyBo5Xj1g8nr0grGi3vZFFI8zLvqY14pX886NnKeHn_XsIgDaMAIlJCp7TWosw7-4W6U1cVRzdQSQUiRr=w500-h383-no)
 Examples of website: amazon.com, flipkart.com,Google.com,Yahoo.com,guru.gndec.ac.in
 ---
 ---
@@ -189,21 +191,19 @@ Native Apps
 ![](https://lh3.googleusercontent.com/2ssiyuW-40pYbeAOadNIErmceXbGOJ2hxe5AIqVA-8fbR4KDyHQ3Rsf3QuAWEW1nbkwj6_P2sedcFS9qkYaE5EdW_ELoSWsZyLOY33fp_fXZQYGXsSgoS2wFdgwuNz9qvIRed9cwfR9Gcp0H_mhCwM7iYYmbmnknfpKgg-ltK9b_IamFisz9h-is2QtLV2GfFYuTzA2c8JTivWgo6QxEH782LgDlJoq9ppzzuZhdL8ZWrONE1dIFTUbIBW4oQq0HNfnMJw5_ESTwqT7X3EahtZC5FWwLmA-MChnT_fUuCa4YXd-OMpsDrdyT63TpHJ90hILLhu-Jcm1bAyCuv-xcolJuYccqzyAs1w2f9krIB8n-_HyGcwcDJwK-LF16e57_6d7hGf79joKDQrEs_S2N941hGicm-1g2YFjZhEOl10yphsSpuriQVCGxOUuiXYtrrH4iMfRfixLFAy7R2Lbng8TJtcVtKTBLUIEUty6H3M4O28PgYWX_I_J7ke76oAzLPUbLvmsH3LhbwIwae45HPhUPRx_YES-KkiQpQ-52v0HymF-kDTnUuu_NV3oWbM6yJ8dDGjHV8vltIFV5yc_3mK_6ymHno708Wxuh7Q_37yZEk6Y2eg6mzckwb10jqkcBH00BXwfopzoStduHxblST_AIDoUqy7w1bOEaQ0-wpZBNj-DUiv8zodFe=w344-h590-no)
 ![](https://lh3.googleusercontent.com/qll8xuhEydPul0Nip1cbhuSGKhnzxTG3SBFJFSHBpbF7nzFEKPRZ1DhaPVZnOsynVFsOFRtmPMVQpzWCyjG11J8b0Uto8ACcNvn9XyEY47oBMMo8wFyBfpov8jNrZx7Q1YNfO6m0cgry2E3yZQXdoLNb4mQyN0RMk5qqNsduQJ7tUI4eDhk__dCp4VQBRSGxOLuyXxcsWxENVtjL_ZYW70A3UPesAeWNIpfDIoe-4-eDqZGKOiVwrw1YE-K-JCaM3K4w7yUZHXzac5xXV9QPcCCONzsJ_J8s8Qq9y9bJGongRsZEt89wm53PUUbN84ht1ZECrZgYXIyA9SgImZ-cTEPE8wlZaE4itXqjAHUdybk0em4XMZa0DHqTrzsRW2yE9cU8eWY6JbNODpXqQQQ79gGoQU5JwPeA0XckDfAaVNjFBBM5RrFpF2S0qVloBF0DxULRqzjruYlLkOh8i18HprJFFU2XWQcfophVaEr1VocEGRE0Ide8E2DiTArdF7oyPz2KhhedKbZ3XzIs8uSbzWaC3FMaYof4DvcPeh7op4KuIzbo8GnOmli_Q1EA0RrSNPJbJcRLdtsWFngCLr3G2eZGGel9EeJJ1QMnbAIkDZnwrV-P1r8ROVdYmDlulAEEFwokHWFRBB7OVn61hEsLL9lwDwpBaGIS0BHqIxk7GewWszLz-A961XqN=w680-h639-no)
 # Conclusion
-### Native Apps Best For
+### Native Apps Best for
 native apps are so specialized and complex, they are best suited for performance and user experience.
 
 It is also a good option if we don’t have budget or time constraints and if our app requires extensive use of device hardware features.
-### Hybrid Apps Best For
+### Hybrid Apps Best for
 Hybrid apps are a good option if want to reach a broad audience rather than a specialized user base.
 
 It is also great if we don’t have the time and money to invest in two different native apps.
 
----
-Looking at the above, we can summarize in a few points:
-+ Choose Native if performance and access to device hardware features are important.
-+ Choose PWA if you are making an e-commerce website+app.
-+ Choose Compiled or Hybrid if we and our team are comfortable with web technologies and want to build apps in a limited time.
+ ### PWA Best for
+ + It is best for making an e-commerce website+app.
 + PWA has the highest reach with companies like Flipkart, Twitter Lite and Starbucks reporting increased user retention rate
+
 ---
 ---
 ![](https://www.thebalancecareers.com/thmb/LhHWsTiDL7S0Ik2eh72h4ljg5gw=/3865x2576/filters:fill(auto,1)/thank-you-185078737-58adfa013df78c345b0837e7.jpg)
