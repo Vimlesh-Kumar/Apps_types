@@ -129,9 +129,9 @@ Examples of **PWA**
 + Improved performance
 + home screen shortcuts
 + No nedd to publish apps on apps store
-![](https://static2.clutch.co/s3fs-public/push_notification.png)
 + Specific hardware features example;push notifications
 + Auto updated
+![](https://static2.clutch.co/s3fs-public/push_notification.png)
 + Linkable — Can easily be shared via a URL, and does not require complex installation
 ### Disadvantages of PWA
 + Missing Out on App Store Traffic
