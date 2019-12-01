@@ -5,7 +5,7 @@ some examples of Native apps are
 * Twitter
 * Instagram
 * facebook
-* Pokémon Go
+* Pokemon Go
 * PUBG
 #### Advantages
 * High performance
