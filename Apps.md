@@ -1,6 +1,5 @@
 # Native Apps
 A native application (native app) is an application program that has been developed for use on a particular platform or device. It is install from apps market like play store for Android and App store for iOS users.
-
 some examples of Native apps are
 * Twitter
 * Instagram
@@ -22,7 +21,7 @@ some examples of Native apps are
 
 In the mobile world, there are two operating systems that share almost 100% of the mobile device market: iOS and Android. so the two main mobile OS platforms are Apple's iOS and Google's Android. Native apps are written in the code preliminarily used for the device and its OS. For example, developers write iOS applications in Objective-C or Swift, while they create Android-native apps in Java.
 
-### Tools required
+### Tools and Framework
 * Apache Cordova
 * Xcode
 * Appcelerator Titanium
@@ -38,9 +37,9 @@ Some examples of web apps are:
 * online retail sales
 * online banking
 ### How a web application works
-The web application requires a web server to manage requests from the client, an application server to perform the tasks requested, and sometimes a database to store the information. Application server technology ranges from ASP.NET, ASP and ColdFusion, to PHP and JSP.
+The web application requires a web server to manage requests from the client, an application server to perform the tasks requested, and sometimes a database to store the information. Application server technology ranges from ASP.NET, ASP and ColdFusion, PHP and JSP.
 
-![](https://lh3.googleusercontent.com/2AimBAFGAZlx6eXulm2Fw7uQNVeUO93B2DSsOjvKyRovXRVExIb_QoK43e4ypI_h-7LtDDkmzbyRtJrfrZ_ZhZpwBtSMYXiPWo4vPQWJ_xPuav72ANON2dqoaTgrR_e-PSbZgQ-BAuJbenaki70ATuBRxy_VZgbjY6g9OEGek4QYprrmEJtCIJsMN7qb2G8FG8z6RuNVzW0Zq_yiNXMwL7f3T5cq7fhbVBM9eCQxFEaXLT7_wCP3wCWGDOBgFowVAGGwEQAtoTLNlfzQ9gUZZNiA3JnomZlJlqTmNDXMbPQqAiKJxZ0g0JVQifaevyMT5lvbuhOIl2xdNds9gxmWu02Z-YlV-qKy07HAC6NU_NVILFUc9aOgtXA3o4lWYgkx79SwZIadR5NzhchFM8viaCjjGXD0lZni1Wss3Uc-E-JeGPb1kATr5Nd9XvFPKNVaT5wf9gq4vXxh-dkDw4oL22CkqFn8CWzXAaSnF7ptE1a4LS_JZ89i8vESWoO4bcgooomLFSVP4dHK4B0f6AAhQZlECZr1HC_Mkw6GBcf2SS-HABTLpvsAHvkIyD65HAl4I9z0chGFkYVOwoMfaFV3PSIIxF3omsDZ60q3oPT0HigLhQUxJ6d5zYzIQHwoXV9lJ5m3gCRw3kjd252103-Czl43bvzgXSAu0zBxluHP1GC8TrXj70vnqDLV=w504-h296-no)
+![](https://lh3.googleusercontent.com/iyfVWuGOwm1PHZDjhpFpeCybojWz1fzrMEYfZjZ3wtfbENwsiVv2qZhljX_7-S1fL1_CRPy6S4LSSNDRvGnF1w3HjnOErP6kxspHYsTVFkR_Ng5oTEpH8BgHKSobHEknaAHy4I4Duiz-JFGap6_9inu8SyjvHVbFqY0IxtFY6k-L15xNo3iB27BFhIKJ-5j_VVQNMl6MOVZifAWxGs0CCcjVj11Q8CFkKuOAI6AqDV8AhuNat7JUJ4D9kMa2anAFkTPaUd7BKRhsCasm8eo0ES8-Tunv_na4_BpFYL1qI5rADa5MjOEduiVosBBROhhUXPqGpmOocOV3qSuwe55vq9FJ_iOEFWougQd5Q8cQMVziC-_3HoBNtkPBi_4n24vgyFLuVOZoNbdRKWKTCHYP7u-zPqpyMSBEL_ojVAapybCCtZaELTElb8GaTg5H4YhxppebugLaFMNL8K523KvvipDPoZKutlgF0ui8SncfR7iCEZY0VjpsLWqwQmsm1TYGdNAUZB6-PcHNBdX6rLkIjdGN2TkdvdhDnIbZ4SrKd1XoJoIh6Pgx9aP0YRu-hpBhtz8VWXKPBrQfEI0sYKGJyMRAQVuISFUVnGyAgERhJIV0Z7PgfU2_FfVVqvWc997yyrUt3l-02ElLRLVIJmnDtlqLzFlAos9oHRnMHIC7GGD5r_Klv46Ggjjm=w504-h296-no)
 1) User triggers a request to the web server over the Internet, either through a web browser or the application’s user interface
 2) Web server forwards this request to the appropriate web application server
 3) Web application server performs the requested task – such as querying the database or processing the data – then generates the results of the requested data
@@ -85,9 +84,9 @@ Hybrid mobile apps are developed for multiple platforms and behave like native a
 ### Advantages
 
 + Low cost
-+ Slightly faster to develop because a single code base
++ Slightly faster to develop because of single code base
 + Only one app is developed for all platforms.
-+ Launch quickly ater testting app
++ Launch quickly ater testing app
 ### Disadvantages
 + Typically, hybrid apps are slower than native apps.
 + These apps are dependent on a third party platform called wrappers
@@ -130,8 +129,8 @@ Examples of **PWA**
 + home screen shortcuts
 + No nedd to publish apps on apps store
 + Specific hardware features example;push notifications
-+ Auto updated
 ![](https://static2.clutch.co/s3fs-public/push_notification.png)
++ Auto updated
 + Linkable — Can easily be shared via a URL, and does not require complex installation
 ### Disadvantages of PWA
 + Missing Out on App Store Traffic
@@ -139,7 +138,7 @@ Examples of **PWA**
 + Unable to Access Various Device Features
 ### Tools and Framework
 + Angular JS- It is a  tool for developing the client-side part of web apps.
-+ Polymer. Developed by Google, Polymer is a lightweight Javascript framework.
++ Polymer,developed by Google, Polymer is a lightweight Javascript framework.
 ##### Tools 
 + React
 + Lighthouse
@@ -162,7 +161,7 @@ A website refers to a central location that contains more than one web page or a
 ### How a Website works
 + A **website** is simply a collection of web pages of codes – codes that describes the layout, format and content on a page. 
 + The **web server** is a internet-connected computer that receives the request for a web page sent by your browser.
-+ The **browser** connects your computer to the server through an IP address. The IP address is obtained by translating the domain name. (this part is all done automatically by browser so we don’t have to look up the IP addresses owmself.)
++ The **browser** connects your computer to the server through an IP address. The IP address is obtained by translating the domain name. (this part is all done automatically by browser so we don’t have to look up the IP addresses ownself.)
 + 
 In other words, in order to display website on the Internet
 + A website
