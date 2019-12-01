@@ -138,8 +138,8 @@ Examples of **PWA**
 + High Battery Usage
 + Unable to Access Various Device Features
 ### Tools and Framework
-+ Angular JS- It is a  tool for developing the client-side part of web apps.
-+ Polymer,developed by Google, Polymer is a lightweight Javascript framework.
++ Angular JS:- It is a  tool for developing the client-side part of web apps.
++ Polymer:- It is developed by Googleand it is a lightweight Javascript framework.
 ##### Tools 
 + React
 + Lighthouse
