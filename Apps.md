@@ -162,6 +162,7 @@ A website refers to a central location that contains more than one web page or a
 ![](https://drive.google.com/file/d/1eENPJYSMRMxZgFXj3lxRk43jn8EdoZ6i/view?usp=sharing)
 ![](https://drive.google.com/file/d/1eENPJYSMRMxZgFXj3lxRk43jn8EdoZ6i/view)
 ![](https://drive.google.com/uc?export=view&id=1eENPJYSMRMxZgFXj3lxRk43jn8EdoZ6i)
+![](https://drive.google.com/open?id=1eWKbFRqWScXBDglk9f15weDCTLj-mqGl)
 
 ### How a Website works
 + A **website** is simply a collection of web pages of codes – codes that describes the layout, format and content on a page. 
