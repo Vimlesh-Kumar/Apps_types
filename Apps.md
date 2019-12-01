@@ -1,5 +1,6 @@
 # Native Apps
 A native application (native app) is an application program that has been developed for use on a particular platform or device. It is install from apps market like play store for Android and App store for iOS users.
+
 some examples of Native apps are
 * Twitter
 * Instagram
