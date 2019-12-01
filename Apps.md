@@ -12,7 +12,7 @@ some examples of Native apps are
 * More secure
 * Quality assurance despite rating in App Stores
 * Gets security updates
-* works without internet
+* Works without internet
 #### Disadvantages 
 * More time spent for feature update
 * High price and long development time
